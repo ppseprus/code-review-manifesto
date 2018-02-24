@@ -15,4 +15,4 @@
 13. **I always reply to each and every comment, in a meaningful way.** _You never know who reads a thread and when, and who might learn from it now or then._
 14. **When in doubt, write something fun!** _Having fun is a good way to avoid frustration..._
 
-This work was a collaborative effort between Miklós **Antal** (mkls), Adrián **Sallai**, Péter **Seprűs** (ppseprus) Kristóf **Tombácz**, Ábel **Varga** (rangeoshun) and Csaba **Vályi** (csabbee). Alphabetically.
+This document is the result of the collaborative efforts of Miklós **Antal** (mkls), Adrián **Sallai**, Péter **Seprűs** (ppseprus) Kristóf **Tombácz**, Ábel **Varga** (rangeoshun) and Csaba **Vályi** (csabbee). Alphabetically.
